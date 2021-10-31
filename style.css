@@ -1,0 +1,11 @@
+body{
+    background-image: url('whatsapp.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+#cap{
+    margin-left: 400px;
+    margin-bottom: 900px;
+}
